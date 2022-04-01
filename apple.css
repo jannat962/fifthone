@@ -1,0 +1,25 @@
+.box{
+    width: 360px;
+    height: 450px;
+    background-image: linear-gradient(rgb(85, 85, 196), skyblue);
+    border-radius: 20px;
+    margin: auto;
+    box-shadow: 10px 10px 10px 10px rgb(76, 102, 106);
+}
+.box h2{
+    margin-left: 60px;
+    margin-top: 50px;
+    padding-top: 20px;
+    color: rgb(214, 225, 52);
+}
+ol li a{
+    text-decoration: none;
+    color: aliceblue;
+    padding: 10px 20px;
+    background-image: linear-gradient(rgb(79, 186, 231),rgb(7, 3, 47));
+    border-radius: 5px;
+}
+ol li{
+    list-style: none;
+    margin: 28px;
+}
